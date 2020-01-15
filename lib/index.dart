@@ -7,7 +7,7 @@ class Index extends StatelessWidget {
     return new Scaffold(
       body: Container(
 
-        child: Image.asset("images/loading.png"),
+        child: Image.asset("images/loading.jpg"),
       ),
 
     );;

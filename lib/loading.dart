@@ -20,7 +20,7 @@ class _LoadingState extends State<LoadingPage> {
   @override
   Widget build(BuildContext context) {
     return new Container(
-      child: Image.asset("images/loading.png"),
+      child: Image.asset("images/loading.jpg"),
     );
   }
 }
